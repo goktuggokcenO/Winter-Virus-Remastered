@@ -687,11 +687,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 0b799b2e-6005-4859-8f72-f73d14b05d25
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Winter Virus Remastered 2025-01-26_18-26-48
+  organizationId: goktuggokcen-c031957f-cefa-4c04-8c2f-3c6db0c20c51
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
