@@ -122,7 +122,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Collectable_Cookie_0
+      name: CollectableCookie_0
       rect:
         serializedVersion: 2
         x: 0
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1497856b20c0d42af9281a312353cb5d
-      internalID: 1320568030
+      spriteID: a56820a43014a404dae5162f36c5e748
+      internalID: -1885968429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Collectable_Cookie_1
+      name: CollectableCookie_1
       rect:
         serializedVersion: 2
         x: 16
@@ -159,14 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86bce3d69119a49a4a71fa41e2a72822
-      internalID: 302730059
+      spriteID: b87cfd8614eb742d38ef754520d6bfa0
+      internalID: -332238349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Collectable_Cookie_2
+      name: CollectableCookie_2
       rect:
         serializedVersion: 2
         x: 32
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc72dfd77eee34b2c9c6171b25d29daa
-      internalID: -1201706438
+      spriteID: ed1301b6ee69c487ab67fc2866e075f3
+      internalID: -8173332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Collectable_Cookie_3
+      name: CollectableCookie_3
       rect:
         serializedVersion: 2
         x: 48
@@ -203,8 +203,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c50d0bd7c89e46be8915c32b6effcce
-      internalID: -1627258092
+      spriteID: a1e8135d71e3445428523f0e47c06b63
+      internalID: 330460499
       vertices: []
       indices: 
       edges: []
@@ -223,10 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Collectable_Cookie_0: 1320568030
-      Collectable_Cookie_1: 302730059
-      Collectable_Cookie_2: -1201706438
-      Collectable_Cookie_3: -1627258092
+      CollectableCookie_0: -1885968429
+      CollectableCookie_1: -332238349
+      CollectableCookie_2: -8173332
+      CollectableCookie_3: 330460499
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
