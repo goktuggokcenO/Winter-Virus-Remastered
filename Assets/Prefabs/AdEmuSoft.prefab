@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8116389387681859718}
   - component: {fileID: 3685840852301181940}
+  - component: {fileID: -6751455458896664420}
   m_Layer: 0
   m_Name: AdEmuSoft
   m_TagString: Untagged
@@ -87,3 +88,15 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &-6751455458896664420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3951980852783794290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3a2802fdc37d405fa41922497c5789f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
