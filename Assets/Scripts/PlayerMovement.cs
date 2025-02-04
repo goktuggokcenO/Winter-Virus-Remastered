@@ -7,6 +7,9 @@ public class PlayerMovement : MonoBehaviour
     public float jumpingPower;
     private bool isFacingRight = true;
 
+    [Header("Debug")]
+    public bool showGroundCheck;
+
     // Data inputs.
     public Transform groundCheck;
     public LayerMask groundLayer;
@@ -24,6 +27,10 @@ public class PlayerMovement : MonoBehaviour
     {
         GetInput();
         Flip();
+
+        // Debug - Ground check ray.
+        if (showGroundCheck)
+            Debug.DrawRay(groundCheck.position, new Vector2(0, -0.2f), Color.red);
     }
 
     private void FixedUpdate()
