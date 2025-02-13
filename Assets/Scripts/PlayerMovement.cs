@@ -4,9 +4,12 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     [Header("Movement")]
+    // Movement
     public float playerSpeed;
-    public float jumpingPower;
     private bool isFacingRight = true;
+
+    // Jumping
+    public float jumpingPower;
 
     // Dashing
     private bool canDash = true;
@@ -22,7 +25,6 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheck;
     public LayerMask groundLayer;
     private float horizontal;
-    private float movementDetect;
     private Rigidbody2D rb;
     private TrailRenderer tr;
 
